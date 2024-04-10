@@ -2,7 +2,7 @@
 
 Please refer to the below steps when assisting a student in #help-me-understand:
 
-All requests for coding assistance MUST originate in #help-me-understand. Requests sent via DM to a SEIR or instructor should be redirected to the appropriate channel, as should requests made by coming to find you in Zoom. Students will utilize HMU to post questions during lectures as well, in order to preserve continuity, to be addressed at the conclusion of the lecture. 
+All requests for coding assistance MUST originate in #help-me-understand. Requests sent via DM to a SEIR or instructor should be redirected to the appropriate channel, as should requests made by coming to find you in Zoom. Students will utilize HMU to post questions during lectures as well, in order to preserve continuity, to be addressed at the conclusion of the lecture.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Utilizing the help-me-understand channel efficiently:
 
 ## Implementation
 
-Each HMU post must contain the following: 
+Each HMU post must contain the following:
 - A big screenshot of the error message and all relevant code
 - A description of what the student believes the error could be and what they think might be causing it. If they do not know, a guess is acceptable, but we want to see some thought trajectory here!
 - A description of what the student has already tried in order to solve it
@@ -25,9 +25,27 @@ Posts that do not contain the necessary context will be prompted to provide furt
 
 Upon resolution, students are asked to edit their post by adding RESOLVED at the top, indicating that no further assistance is needed, and that resources and conversation that led to the resolution can be found in this thread for their peers to reference.
 
+If your cohort doesn't have a HMU post template pinned yet, you can share the following:
+```
+Help Me Understand Template
+
+RESOLVED: (When your issue is no more, please update your original post with the solution!)
+
+:memo: What are you working on?
+:world_map: Where are you? (ie. which breakout room)
+:busts_in_silhouette: Who is working on the problem with you?
+:boom: What is the problem that you’re having?
+:thinking_face: How have you attempted to solve the problem so far? What do you think the cause of the problem might be?
+
+(Please be sure to share screenshots of the error and/or your code in the thread of your message! :thread::camera_with_flash:)
+```
+
+When pasting in Slack, it should look like the following:
+![help me understand template example](screenshots/hmu-template.png)
+
 ## Status Reactions
 
-Staff use a system of status reactions on posts to indicate to one another and to students that they are working on a specific problem: 
+Staff use a system of status reactions on posts to indicate to one another and to students that they are working on a specific problem:
 
 👀 <- Use this to let people know you’ve seen this and are looking into this. This prevents overlap in problems being addressed. If you see eyes, you know you can move on to the next request!
 
