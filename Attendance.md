@@ -4,15 +4,17 @@ SEIRs will drop an attendance token on SIS everyday class is in session at preci
 
 - 9:00am
 - 1:45pm
-- 5:00pm 
+- 5:00pm
 
 Ensure that these times align with the timezone of the cohort you are overseeing.
 
-Students that join the meeting after the token expires and up to 15 minutes late should be marked as tardy. Any students joining after that time should be marked absent. 
+Students that join the meeting after the token expires and up to 15 minutes late should be marked as tardy. Any students joining after that time should be marked absent. If a student is present but forgets their token, they should be marked tardy.
+
+Each CL may have a slightly different attendance policy, so double-check with them on how they want missing tokens handled and what counts as tardy/absent during an attendance period.
 
 ## Announcing
 
-When the token is dropped, at least one SEIR should verbally announce its deployment in the Zoom meeting and remind all students to be visible on camera. Students not visible on camera by 5 minutes after the token is dropped should be marked as *tardy*.
+When the token is dropped, at least one SEIR should verbally announce its deployment in the Zoom meeting and remind all students to be visible on camera. Students not visible on camera by 5 minutes after the token is dropped should be marked as *tardy* (until the "no camera" option is available in SIS).
 
 Additionally, when the token is dropped, at least one SEIR should notify students through the Live Channel in Slack, using @here to ensure all members of that channel receive the notification. Example: "@here Attendance token is live! You have until 9:05 am PST! *professional emoji of your choice*"
 
